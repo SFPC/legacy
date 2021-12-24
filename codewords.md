@@ -2,20 +2,13 @@
 title: Code Words 2018
 layout: participate
 slides:
- - image: "/static/img/participate/codewords.png"
-   alt: "code words class logo, illegible text shapes in the background "
- - image: "/static/img/participate/sum2016_outside.jpg"
-   alt: "chairs and tables outside the sfpc space"
- - image: "/static/img/participate/sum2016_lunch.jpg"
-   alt: "sfpc students eating lunch in the courtyard by sfpc"
- - image: "/static/img/participate/summer15_wall_new.jpg"
-   alt: "sfpc code poetry wall art with polaroids of sfpc participants "
- - image: "/static/img/participate/goldenhour.jpg"
-   alt: "four sfpc students working on laptops during goldenhour lighting"
- - image: "/static/img/participate/workshop.jpg"
-   alt: "sfpc students studying at laptops while example codes are projected behind"
- - image: "/static/img/participate/notebook.jpg"
-   alt: "notes about coordinate system and programming"
+ - "/static/img/participate/codewords.png"
+ - "/static/img/participate/sum2016_outside.jpg"
+ - "/static/img/participate/sum2016_lunch.jpg"
+ - "/static/img/participate/summer15_wall_new.jpg"
+ - "/static/img/participate/goldenhour.jpg"
+ - "/static/img/participate/workshop.jpg"
+ - "/static/img/participate/notebook.jpg"
 ---
 
 ***
@@ -69,7 +62,7 @@ The main outcome will be experience with literary arts, with other ways that lan
 
 - <a href="http://hotwriting.com/">Todd Anderson.</a> (TA) Todd undertakes type of performance writing he has developed and named “hotwriting.” An alumnus of Brown’s literary arts MFA program as well as SFPC, Todd organizes the reading series WordHack at Babycastles and teaches at the New School.
 
-![Code words poster](/static/img/participate/code_words_banner.png)
+![](/static/img/participate/code_words_banner.png)
 
 ### What will happen in one week?
 The session will kick off with a group brunch on Sunday 1-5pm. Classes are held in the evenings Monday-Friday from 6:30-9:30pm. SFPC space will be open for students on weekdays between 1pm-6pm.

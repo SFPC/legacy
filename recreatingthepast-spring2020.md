@@ -5,32 +5,19 @@ location:
 contact: sfpc
 slides:
 
-  - image: "/static/img/recreating/img___0000_Layer 9.jpg"
-    alt: "two people overlooking laptop with spirograph art"
-  - image: "/static/img/recreating/img___0001_Layer 7.jpg"
-    alt: "people displaying their generative artworks on laptops"
-  - image: "/static/img/recreating/img___0002_Layer 8.jpg"
-    alt: "many people discussing, smiling, and looking at glowing laptops"
-  - image: "/static/img/recreating/img___0003_Screen Shot 2020-04-29 at 10.08.19 AM.jpg"
-    alt: "monochrome line generative art next to code"
-  - image: "/static/img/recreating/img___0004_Screen Shot 2020-04-29 at 10.06.23 AM.jpg"
-    alt: "printed monochrome generative artworks hung on the wall"
-  - image: "/static/img/recreating/img___0006_Screen Shot 2020-04-29 at 10.01.58 AM.jpg"
-    alt: "maze like generative pattern artwork screenshot"
-  - image: "/static/img/recreating/img___0007_Screen Shot 2020-04-29 at 10.00.54 AM.jpg"
-    alt: "people looking at a large display of generative art next to its accompanying code"
-  - image: "/static/img/recreating/img___0008_Layer 6.jpg"
-    alt: "Digital Harmony, on the complementarity of music and visual art book"
-  - image: "/static/img/recreating/img___0009_Layer 4.jpg"
-    alt: "person playing the ukulele distorted over 4 frames"
-  - image: "/static/img/recreating/img___0010_Screen Shot 2020-04-28 at 11.52.13 AM.jpg"
-    alt: "recreated generative artwork next to original piece"
-  - image: "/static/img/recreating/img___0011_Screen Shot 2020-04-28 at 11.51.36 AM.jpg"
-    alt: "recreated piece next to original; columns of lines of different heights"
-  - image: "/static/img/recreating/img___0012_Screen Shot 2020-04-28 at 11.51.46 AM.jpg"
-    alt: "recreated piece next to original; inlaid gradually rotated blue squares"
-  - image: "/static/img/recreating/muriel.jpg"
-    alt: "overlapping text generative piece"
+  - "/static/img/recreating/img___0000_Layer 9.jpg"
+  - "/static/img/recreating/img___0001_Layer 7.jpg"
+  - "/static/img/recreating/img___0002_Layer 8.jpg"
+  - "/static/img/recreating/img___0003_Screen Shot 2020-04-29 at 10.08.19 AM.jpg"
+  - "/static/img/recreating/img___0004_Screen Shot 2020-04-29 at 10.06.23 AM.jpg"
+  - "/static/img/recreating/img___0006_Screen Shot 2020-04-29 at 10.01.58 AM.jpg"
+  - "/static/img/recreating/img___0007_Screen Shot 2020-04-29 at 10.00.54 AM.jpg"
+  - "/static/img/recreating/img___0008_Layer 6.jpg"
+  - "/static/img/recreating/img___0009_Layer 4.jpg"
+  - "/static/img/recreating/img___0010_Screen Shot 2020-04-28 at 11.52.13 AM.jpg"
+  - "/static/img/recreating/img___0011_Screen Shot 2020-04-28 at 11.51.36 AM.jpg"
+  - "/static/img/recreating/img___0012_Screen Shot 2020-04-28 at 11.51.46 AM.jpg"
+  - "/static/img/recreating/muriel.jpg"
  
 ---
 
@@ -63,7 +50,7 @@ Here are examples of some of the artists / works / ideas we will be exploring ac
 
 A more detailed syllabus will be shared in class with specific readings and assignments. 
 
-![original bauhaus graphic and programmatic recreation side by side](/static/img/recreating/recreatingthepast2.png) 
+![](/static/img/recreating/recreatingthepast2.png) 
 
 ### From our students
 
@@ -94,16 +81,16 @@ This class is not right for you if:
 -  You are interested in a more skills based, less theoretical approach to learning creative code
 -  You are not interested in research or engaging with artworks from the past
 
-![digital graphic with peoples names in perspective](/static/img/recreating/recreatingthepast3.png) 
+![](/static/img/recreating/recreatingthepast3.png) 
 
-![1961 text bokeh original and recreated](/static/img/recreating/slide1.jpg) 
+![](/static/img/recreating/slide1.jpg) 
 
 
 ### How will this class work online?
 
 The class will be taught for 2 hours weekly with an additional ½ hour to 1 hr or asynchronous content which includes short lectures and code explanations. The homework will take additional time per week depending on the complexity of the artwork being recreated (Estimated 1-4 hours / week). In addition the teacher and TA will each offer 2 hours of office hour support, at a scheduled time TBD throughout the week.  We will use github, dropbox paper, and slack as our primary tools with zoom used for the class meetings and TA hours. Recordings of the live portions of each class will be archived and shared with participants for a limited time. 
 
-![generative digital artwork, black and white maze-like](/static/img/recreating/slide4.jpg) 
+![](/static/img/recreating/slide4.jpg) 
 
 ### Instructors
  
